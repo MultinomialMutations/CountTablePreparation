@@ -1,0 +1,10 @@
+sample1	cancer_type1
+sample2	cancer_type1
+sample3	cancer_type1
+sample4	cancer_type1
+sample5	cancer_type1
+sample6	cancer_type1
+sample7	cancer_type2
+sample8	cancer_type2
+sample9	cancer_type2
+sample10 cancer_type2

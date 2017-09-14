@@ -1,0 +1,13 @@
+3
+data/local_mutation_rate.bedgraph
+LocalMutRate
+log
+-7 -6 -5 -4 -3 -2 -1
+data/genomicSeg.bedgraph
+genomicSeg
+categorical
+intergenic NCRNA CDS UTR3 UTR5 intron
+data/replication_timing.bedgraph
+replication_timing
+bin
+0.125 0.355 0.513 0.660 0.821 0.880
